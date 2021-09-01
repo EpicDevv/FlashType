@@ -2,6 +2,8 @@
 
 A simple typing speed test application
 
+visit here https://epicdevv.github.io/FlashType/
+
 ## Libraries used
 
 https://www.npmjs.com/package/typewriter-effect
